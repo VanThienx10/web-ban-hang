@@ -147,7 +147,7 @@
     text-transform: uppercase;
     line-height: 70px;
   }
-  header .link {
+  header .link {    
     display: none;
   }
   .close,
