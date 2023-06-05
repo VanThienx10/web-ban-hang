@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VanThienx10/web-ban-hang.git/static/css/main.f53ecfe1.css",
+    "main.js": "/VanThienx10/web-ban-hang.git/static/js/main.6f72bd65.js",
+    "static/js/787.8d2a3247.chunk.js": "/VanThienx10/web-ban-hang.git/static/js/787.8d2a3247.chunk.js",
+    "static/media/logo.svg": "/VanThienx10/web-ban-hang.git/static/media/logo.6172109437bb6cb48eb8dc1f65c9964c.svg",
+    "static/media/slick.svg": "/VanThienx10/web-ban-hang.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/VanThienx10/web-ban-hang.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/VanThienx10/web-ban-hang.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/VanThienx10/web-ban-hang.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/VanThienx10/web-ban-hang.git/index.html",
+    "main.f53ecfe1.css.map": "/VanThienx10/web-ban-hang.git/static/css/main.f53ecfe1.css.map",
+    "main.6f72bd65.js.map": "/VanThienx10/web-ban-hang.git/static/js/main.6f72bd65.js.map",
+    "787.8d2a3247.chunk.js.map": "/VanThienx10/web-ban-hang.git/static/js/787.8d2a3247.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f53ecfe1.css",
+    "static/js/main.6f72bd65.js"
+  ]
+}
